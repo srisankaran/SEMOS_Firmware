@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Stable-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
-[![Status](https://img.shields.io/badge/Version-2.2-purple.svg)]()
+[![Status](https://img.shields.io/badge/Version-2.2-lightgrey.svg)]()
 
 ### 👩‍🔬 Developed by **Ojo & Sri**
 
