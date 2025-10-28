@@ -29,13 +29,14 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 
 
 
-## 🔄 Upcoming Features  
+## 🧩 Upcoming Features (In Development)
 
-1. **Accurate Timestamping** – Ensures highly reliable timestamp accuracy through NTP synchronization and RTC backup. 
-2. **Real-Time Clock (RTC) with Cloud Sync** – Ensures timing accuracy even during power or network failures.  
-3. **SD Card Integration** – Local data storage with continuous rewriting and cloud synchronization.  
-4. **Environmental Monitoring** – Integration of high-accuracy temperature and humidity sensors.  
-5. **Enhanced Web Interface** – Firmware–website integration for richer visualization, control, and analytics.  
+- [ ] **Accurate Timestamping** – To enable highly reliable timestamp accuracy through NTP synchronization and RTC backup.  
+- [ ] **Real-Time Clock (RTC) with Cloud Sync** – To maintain timing accuracy even during power or network failures.  
+- [ ] **SD Card Integration** – To provide local data storage with continuous rewriting and cloud synchronization.  
+- [ ] **Environmental Monitoring** – To integrate high-accuracy temperature and humidity sensors.  
+- [ ] **Enhanced Web Interface** – To expand firmware–website integration for richer visualization, control, and analytics.
+
 
 
 ## 💡 Summary  
