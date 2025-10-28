@@ -12,7 +12,7 @@
 **SEMOS (Smart Energy Meter for Optimized Systems)** is an intelligent IoT-based energy monitoring solution designed to measure and analyze electrical parameters in real time.  
 It integrates precision sensors, an ESP32 microcontroller, and a user-friendly web dashboard to enable efficient energy tracking and remote access.
 
---
+
 
 ## ⚙️ Key Features  
 ✅ Real-time measurement of voltage, current, power, and energy  
@@ -23,7 +23,7 @@ It integrates precision sensors, an ESP32 microcontroller, and a user-friendly w
 ✅ Over-The-Air (OTA) firmware updates  
 ✅ Compact and reliable hardware design  
 
----
+
 
 ## 🧠 System Highlights  
 - Modular firmware supporting multiple PZEM and sensor units  
@@ -32,7 +32,7 @@ It integrates precision sensors, an ESP32 microcontroller, and a user-friendly w
 - Secure and stable data transfer to local servers  
 - Designed for continuous 24×7 operation  
 
----
+
 
 ## 🛠️ Hardware Requirements  
 - **ESP32** (any variant)  
@@ -41,7 +41,7 @@ It integrates precision sensors, an ESP32 microcontroller, and a user-friendly w
 - **Power supply** (regulated 5V DC)  
 - Optional: OLED / LCD display for live readout  
 
----
+
 
 ## 💻 Software Requirements  
 - **Arduino IDE** or **PlatformIO**  
@@ -52,7 +52,7 @@ It integrates precision sensors, an ESP32 microcontroller, and a user-friendly w
   - `PZEM004Tv30.h`  
   - `ArduinoOTA.h`  
 
----
+
 
 ## 🚀 Getting Started  
 1. Clone this repository:  
