@@ -13,6 +13,7 @@
 
 It combines precision sensing, ESP32-based control, and a cloud-synced web dashboard for efficient energy tracking, remote access, and data management. SEMOS is developed to operate continuously and reliably in both standalone and network-connected modes.
 
+<br>
 
 ## ⚙️ Key Features  
 
@@ -27,7 +28,7 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 | 7 | **Compact and Reliable Hardware** | Compact PCB design that fits smoothly into existing setups while ensuring reliable performance.
 | 8 | **OTA Updates** | Firmware can be updated both locally and over the air to add new features and improve performance |
 
-
+<br>
 
 ## 🧩 Upcoming Features (In Development)
 
@@ -37,7 +38,7 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 - [ ] **Environmental Monitoring** – To integrate high-accuracy temperature and humidity sensors.  
 - [ ] **Enhanced Web Interface** – To expand firmware–website integration for richer visualization, control, and analytics.
 
-
+<br>
 
 ## 💡 Summary  
 SEMOS is built for precision, reliability, and expandability.  
