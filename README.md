@@ -1,61 +1,45 @@
 # ⚡ SEMOS — Smart Energy Meter  
----
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build](https://img.shields.io/badge/Build-Stable-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Build](https://img.shields.io/badge/Build-Stable-blue.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
-[![Status](https://img.shields.io/badge/Version-2.2-lightgrey.svg)]()
+[![Version](https://img.shields.io/badge/Version-2.2-lightgrey.svg)]()
 
-### 👩‍🔬 Developed by **Ojo & Sri**  
+### 👩‍🔬 Developed by **Ojo & Sri**
 
-
+<hr style="border:0.3px solid #ccc;"/>
 
 ## 📘 Overview  
-**SEMOS (Smart Energy Meter for Optimized Systems)** is an intelligent IoT-based energy monitoring solution designed to measure and analyze electrical parameters in real time.  
-It integrates precision sensors, an ESP32 microcontroller, and a user-friendly web dashboard to enable efficient energy tracking and remote access.
+**SEMOS (Smart Energy Meter for Optimized Systems)** is an advanced IoT-based energy monitoring solution designed to measure, analyze, and log electrical parameters in real time.  
 
+It combines precision sensing, ESP32-based control, and a cloud-synced web dashboard for efficient energy tracking, remote access, and data management. SEMOS is developed to operate continuously and reliably in both standalone and network-connected modes.
 
+<hr style="border:0.3px solid #ccc;"/>
 
 ## ⚙️ Key Features  
-✅ Real-time measurement of voltage, current, power, and energy  
-✅ Automatic data logging and timestamping  
-✅ Wi-Fi connectivity for remote monitoring  
-✅ Integrated web interface for visualization  
-✅ Data export in `.CSV` and `.TXT` formats  
-✅ Over-The-Air (OTA) firmware updates  
-✅ Compact and reliable hardware design  
 
+✅ **Accurate Parameter Measurement** – Real-time voltage, current, power, and energy readings with calibration correction for precision.  
+✅ **24×7 Continuous Operation** – Designed for stable, long-term deployment with automated recovery and minimal downtime.  
+✅ **Smart Connectivity** – Seamless Wi-Fi connection for remote monitoring and cloud synchronization.  
+✅ **Resilient Data Handling** – Automatically logs data to the cloud; in case of network interruption, data is safely stored locally until connection is restored.  
+✅ **Web-Based Dashboard** – Simple, responsive interface accessible from any device for real-time visualization and control.  
+✅ **Data Export** – Supports data export in structured formats for analysis and reporting.  
+✅ **OTA Updates** – Firmware can be updated remotely for improved performance and new features.  
+✅ **Compact and Reliable Hardware** – Efficient design ensuring safety, low power consumption, and scalability.  
 
+<hr style="border:0.3px solid #ccc;"/>
 
-## 🧠 System Highlights  
-- Modular firmware supporting multiple PZEM and sensor units  
-- Supports both Access Point and Station (client) modes  
-- Real-time data updates without page reload  
-- Secure and stable data transfer to local servers  
-- Designed for continuous 24×7 operation  
+## 🔄 Upcoming Features  
 
+1. **Accurate Timestamping** – Reliable event tracking with high-resolution time data.  
+2. **Real-Time Clock (RTC) with Cloud Sync** – Ensures timing accuracy even during power or network failures.  
+3. **SD Card Integration** – Local data storage with continuous rewriting and cloud synchronization.  
+4. **Environmental Monitoring** – Integration of high-accuracy temperature and humidity sensors.  
+5. **Enhanced Web Interface** – Firmware–website integration for richer visualization, control, and analytics.  
 
+<hr style="border:0.3px solid #ccc;"/>
 
-## 🛠️ Hardware Requirements  
-- **ESP32** (any variant)  
-- **PZEM-004T v3.0** or compatible energy sensor  
-- **SD card module** (optional for local storage)  
-- **Power supply** (regulated 5V DC)  
-- Optional: OLED / LCD display for live readout  
+## 💡 Summary  
+SEMOS is built for precision, reliability, and expandability.  
+It serves as a robust foundation for academic, industrial, and research-based energy monitoring systems, combining IoT intelligence with real-world stability.
 
-
-
-## 💻 Software Requirements  
-- **Arduino IDE** or **PlatformIO**  
-- Libraries used:  
-  - `WiFi.h`  
-  - `HTTPClient.h`  
-  - `ArduinoJson.h`  
-  - `PZEM004Tv30.h`  
-  - `ArduinoOTA.h`  
-
-
-
-## 🚀 Getting Started  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/<your-username>/SEMOS.git
+---
