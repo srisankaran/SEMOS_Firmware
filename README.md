@@ -13,7 +13,7 @@
 
 It combines precision sensing, ESP32-based control, and a cloud-synced web dashboard for efficient energy tracking, remote access, and data management. SEMOS is developed to operate continuously and reliably in both standalone and network-connected modes.
 
-<hr style="border:0.3px solid #ccc;"/>
+//
 
 ## ⚙️ Key Features  
 
