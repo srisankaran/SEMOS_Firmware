@@ -10,11 +10,8 @@
 
 ## 📘 Overview  
 **SEMOS (Smart Energy Meter for Optimized Systems)** is an advanced IoT-based energy monitoring solution designed to measure, analyze, and log electrical parameters in real time.  
-
 It combines precision sensing, ESP32-based control, and a cloud-synced web dashboard for efficient energy tracking, remote access, and data management. SEMOS is developed to operate continuously and reliably in both standalone and network-connected modes.
-
 <br>
-
 ## ⚙️ Key Features  
 
 | Sr. no | Feature | Description |
@@ -27,9 +24,7 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 | 6 | **Data Export** | Allows exporting data in structured formats for further analysis and reporting. |
 | 7 | **Compact and Reliable Hardware** | Compact PCB design that fits smoothly into existing setups while ensuring reliable performance.
 | 8 | **OTA Updates** | Firmware can be updated both locally and over the air to add new features and improve performance |
-
 <br>
-
 ## 🧩 Upcoming Features (In Development)
 
 - [ ] **Accurate Timestamping** – To enable highly reliable timestamp accuracy through NTP synchronization and RTC backup.  
@@ -37,9 +32,7 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 - [ ] **SD Card Integration** – To provide local data storage with continuous rewriting and cloud synchronization.  
 - [ ] **Environmental Monitoring** – To integrate high-accuracy temperature and humidity sensors.  
 - [ ] **Enhanced Web Interface** – To expand firmware–website integration for richer visualization, control, and analytics.
-
 <br>
-
 ## 💡 Summary  
 SEMOS is built for precision, reliability, and expandability.  
 It serves as a robust foundation for academic, industrial, and research-based energy monitoring systems, combining IoT intelligence with real-world stability.
