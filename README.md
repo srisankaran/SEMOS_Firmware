@@ -12,7 +12,7 @@
 **SEMOS (Smart Energy Meter for Optimized Systems)** is an intelligent IoT-based energy monitoring solution designed to measure and analyze electrical parameters in real time.  
 It integrates precision sensors, an ESP32 microcontroller, and a user-friendly web dashboard to enable efficient energy tracking and remote access.
 
-...
+<hr style="border:0.3px solid #ddd;"/>
 
 ## ⚙️ Key Features  
 ✅ Real-time measurement of voltage, current, power, and energy  
