@@ -1,12 +1,13 @@
 # ⚡ SEMOS — Smart Energy Meter  
+---
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Stable-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
 [![Status](https://img.shields.io/badge/Version-2.2-lightgrey.svg)]()
 
-### 👩‍🔬 Developed by **Ojo & Sri**
+### 👩‍🔬 Developed by **Ojo & Sri**  
 
----
+
 
 ## 📘 Overview  
 **SEMOS (Smart Energy Meter for Optimized Systems)** is an intelligent IoT-based energy monitoring solution designed to measure and analyze electrical parameters in real time.  
