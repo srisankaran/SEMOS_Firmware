@@ -16,14 +16,17 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 
 ## ⚙️ Key Features  
 
-✅ **Accurate Parameter Measurement** – Real-time voltage, current, power, and energy readings with calibration correction for precision.  
-✅ **24×7 Continuous Operation** – Designed for stable, long-term deployment with automated recovery and minimal downtime.  
-✅ **Smart Connectivity** – Seamless Wi-Fi connection for remote monitoring and cloud synchronization.  
-✅ **Resilient Data Handling** – Automatically logs data to the cloud; in case of network interruption, data is safely stored locally until connection is restored.  
-✅ **Web-Based Dashboard** – Simple, responsive interface accessible from any device for real-time visualization and control.  
-✅ **Data Export** – Supports data export in structured formats for analysis and reporting.  
-✅ **OTA Updates** – Firmware can be updated remotely for improved performance and new features.  
-✅ **Compact and Reliable Hardware** – Efficient design ensuring safety, low power consumption, and scalability.  
+| Sr. no | Feature | Description |
+|:--------:|----------|--------------|
+| 1 | **Accurate Parameter Measurement** | Real-time voltage, current, power, and energy readings with calibration correction for precision. |
+| 2 | **24×7 Continuous Operation** | Designed for stable, long-term deployment with automated recovery and minimal downtime. |
+| 3 | **Smart Connectivity** | Seamless Wi-Fi connection enabling remote monitoring and cloud synchronization. |
+| 4 | **Resilient Data Handling** | Automatically logs data to the cloud; safely stores locally during network interruptions. |
+| 5 | **Web-Based Dashboard** | Responsive, user-friendly interface accessible from any device for live visualization and control. |
+| 6 | **Data Export** | Allows exporting data in structured formats (e.g., CSV, JSON) for further analysis and reporting. |
+| 7 | **Compact and Reliable Hardware** | Energy-efficient design ensuring safety, low power consumption, and scalability. |
+| 8 | **OTA Updates** | Firmware can be securely updated over-the-air for improved performance and new features. |
+
 
 
 ## 🔄 Upcoming Features  
