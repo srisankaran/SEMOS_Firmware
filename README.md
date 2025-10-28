@@ -23,7 +23,7 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 | 3 | **Smart Connectivity** | Seamless Wi-Fi connection enabling remote monitoring and cloud synchronization. |
 | 4 | **Resilient Data Handling** | Automatically logs data to the cloud; safely stores locally during network interruptions. |
 | 5 | **Web-Based Dashboard** | Responsive, user-friendly interface accessible from any device for live visualization and control. |
-| 6 | **Data Export** | Allows exporting data in structured formats (e.g., CSV, JSON) for further analysis and reporting. |
+| 6 | **Data Export** | Allows exporting data in structured formats for further analysis and reporting. |
 | 7 | **Compact and Reliable Hardware** | Energy-efficient design ensuring safety, low power consumption, and scalability. |
 | 8 | **OTA Updates** | Firmware can be securely updated over-the-air for improved performance and new features. |
 
