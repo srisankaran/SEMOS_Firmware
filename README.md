@@ -17,7 +17,7 @@ It integrates precision sensors, an ESP32 microcontroller, and a user-friendly w
 ## ⚙️ Key Features  
 ✅ Real-time measurement of voltage, current, power, and energy  
 ✅ Automatic data logging and timestamping  
-✅ Wi-Fi connectivity for local or remote monitoring  
+✅ Wi-Fi connectivity for remote monitoring  
 ✅ Integrated web interface for visualization  
 ✅ Data export in `.CSV` and `.TXT` formats  
 ✅ Over-The-Air (OTA) firmware updates  
