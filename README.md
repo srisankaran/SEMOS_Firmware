@@ -24,8 +24,8 @@ It combines precision sensing, ESP32-based control, and a cloud-synced web dashb
 | 4 | **Resilient Data Handling** | Automatically logs data to the cloud; safely stores locally during network interruptions. |
 | 5 | **Web-Based Dashboard** | Responsive, user-friendly interface accessible from any device for live visualization and control. |
 | 6 | **Data Export** | Allows exporting data in structured formats for further analysis and reporting. |
-| 7 | Compact and Reliable Hardware | Compact PCB design that fits smoothly into existing setups while ensuring reliable performance.
-| 8 | **OTA Updates** | Firmware can be securely updated over-the-air for improved performance and new features. |
+| 7 | **Compact and Reliable Hardware** | Compact PCB design that fits smoothly into existing setups while ensuring reliable performance.
+| 8 | **OTA Updates** | Firmware can be updated both locally and over the air to add new features and improve performance |
 
 
 
