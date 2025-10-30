@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
 [![Version](https://img.shields.io/badge/Version-2.2-lightgrey.svg)]()
 
-### 👩‍🔬 Developed by **Ojo & Sri**
+### 👩‍🔬 Developed by **Ojo & Sri** 
 
 <hr style="border:0.3px solid #ccc;"/>
 
