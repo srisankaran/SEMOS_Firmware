@@ -1,4 +1,4 @@
-# ⚡ SEMOS — Smart Energy Meter  
+# ⚡ SEMOS — Smart Energy Meter ⚡
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Stable-blue.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
